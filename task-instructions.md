@@ -1,4 +1,4 @@
-This is a {framework} add that uses {library}. Note {doumentation files} for details of how the project is put together.
+This is a {framework} that uses {library}. Note {doumentation files} for details of how the project is put together.
 
 In {path/tofile} I want to accomplish X, Y, and Z (be detailed and specific about what you want and how you want it done).
 
